@@ -1,0 +1,27 @@
+site_name: pypll
+site_url: https://walrusquant.github.io/pypll/
+site_description: Python client for the Premier Lacrosse League stats API
+repo_url: https://github.com/WalrusQuant/pypll
+repo_name: WalrusQuant/pypll
+
+theme:
+  name: material
+  palette:
+    scheme: default
+    primary: indigo
+    accent: amber
+  features:
+    - navigation.sections
+    - content.code.copy
+
+markdown_extensions:
+  - pymdownx.highlight:
+      anchor_linenums: true
+  - pymdownx.superfences
+  - admonition
+  - tables
+
+nav:
+  - Home: index.md
+  - Getting Started: getting-started.md
+  - Reference: reference.md
