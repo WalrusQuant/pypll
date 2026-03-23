@@ -27,8 +27,8 @@ dependencies = [
 ]
 
 [project.urls]
-Homepage = "https://github.com/adamwickwire/pypll"
-Repository = "https://github.com/adamwickwire/pypll"
+Homepage = "https://github.com/WalrusQuant/pypll"
+Repository = "https://github.com/WalrusQuant/pypll"
 
 [tool.setuptools.packages.find]
 where = ["src"]
