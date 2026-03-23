@@ -1,8 +1,0 @@
-Metadata-Version: 2.4
-Name: pypll
-Version: 0.1.0
-Summary: Python client for the Premier Lacrosse League stats API
-License: MIT
-Requires-Python: >=3.9
-Requires-Dist: requests>=2.28
-Requires-Dist: pandas>=1.5

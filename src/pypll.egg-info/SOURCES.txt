@@ -1,9 +1,0 @@
-pyproject.toml
-src/pypll/__init__.py
-src/pypll/_client.py
-src/pypll/api.py
-src/pypll.egg-info/PKG-INFO
-src/pypll.egg-info/SOURCES.txt
-src/pypll.egg-info/dependency_links.txt
-src/pypll.egg-info/requires.txt
-src/pypll.egg-info/top_level.txt
